@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857692792788",
+    "project_id": "mi-finan",
+    "storage_bucket": "mi-finan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857692792788:android:f09cf67c151069cb5c9841",
+        "android_client_info": {
+          "package_name": "com.mifinan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJJNZf2Sk4ijyqZzvqsDL09pd0BAbTxYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
